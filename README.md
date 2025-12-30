@@ -78,7 +78,7 @@ I’m Emmelyn Adams, a Computer Science student at Northumbria University. I bui
 
 ## Want to Contribute?
 
-If you find a bug, have suggestions, or want to try a different approach, please open an issue or reach out. I’m always eager to learn from others!
+If you find a bug, have suggestions, or want to try a different approach, please open an issue or reach out. I’m always eager to learn from others.
 
 ---
 
